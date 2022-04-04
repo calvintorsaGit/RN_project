@@ -1,4 +1,4 @@
-# flip_test_project
+# Simple RN app
 
 Simple app cover topic Navigation, List, Redux, Modal in React Native
 
