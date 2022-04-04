@@ -1,11 +1,13 @@
 # flip_test_project
 
+Simple app cover topic Navigation, List, Redux, Modal section in React Native
+
 React version:
     "react": "17.0.2",
     "react-native": "0.64.0"
     
 Notes:
- - this app using dummydata static due to unable access https://nextar.flip.id/frontend-test
+ - this app using dummydata showing
  - using hooks and functional component
  - store reducer for showing modal and list transaction
     
