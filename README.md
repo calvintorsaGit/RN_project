@@ -1,6 +1,6 @@
 # flip_test_project
 
-Simple app cover topic Navigation, List, Redux, Modal section in React Native
+Simple app cover topic Navigation, List, Redux, Modal in React Native
 
 React version:
     "react": "17.0.2",
