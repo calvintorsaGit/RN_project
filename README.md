@@ -7,7 +7,7 @@ React version:
     "react-native": "0.64.0"
     
 Notes:
- - this app using dummydata showing
+ - this app using dummydata about transaction info
  - using hooks and functional component
  - store reducer for showing modal and list transaction
     
